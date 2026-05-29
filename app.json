@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "recurrly",
-    "slug": "recurrly",
+    "slug": "react-native-dev",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -43,6 +43,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "07474ac0-a063-4a13-878e-8b457be45d8e"
+      }
+    },
+    "owner": "oaksoft-dev"
   }
 }
